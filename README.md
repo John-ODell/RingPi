@@ -234,7 +234,7 @@ Then list what is on the root
 - ls
 and there should be a file named image.jpg
 
-##RING PI BLUETOOTH, MOTION SENSOR, IMAGE CAPTURE DOORBELL###
+The Ring Pi Doorbell
 
 Make sure the previous tests have worked. We will not be calling on the past
 examples, but may be needed for debugging. 
